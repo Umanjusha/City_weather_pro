@@ -5,9 +5,9 @@ export default function Credit() {
     <div class="credit">
     <p>
       Coded by
-      <a href="https://www.linkedin.com/in/sahil-hussain-9a092b224/"
-        > Sahil Hussain</a
-      >, <a href="https://github.com/hussain123sahil/City-Weather-Pro">Source Code on Github.</a> Deployed on Vercel
+      <a href="https://github.com/Umanjusha"
+        > Umanjusha Pandey</a
+      >, <a href="https://github.com/Umanjusha/City_weather_pro">Source Code on Github.</a> Deployed on Vercel
     </p>
   </div>
   );
